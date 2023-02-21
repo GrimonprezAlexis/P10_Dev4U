@@ -2,7 +2,7 @@
 Projet 10 - Définissez les besoins pour une app de soutien scolaire
 - Dev4U est une entreprise de services du numérique de 120 collaborateurs
 
-<img src="./learn-home_logo.png" />
+<img src="./learn-home_logo.png" style="width: 450px;" />
 
 
 ### Fonction
