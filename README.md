@@ -12,7 +12,7 @@
 Lead développeur
 
 ### Details du projet
-Learn@Home est une association qui permet aux élèves en difficulté scolaire d'avoir accès à un soutien scolaire à distance grâce à des tuteurs bénévoles. Leur objectif est de permettre à tout élève, où qu'il soit, d'avoir un accès facile à un soutien scolaire. L'association souhaite travailler avec Dev4U sur la conception de son site web. Le but de ce projet est de concevoir un site web pour que les élèves et les bénévoles puissent communiquer facilement directement depuis le site.
+Learn@Home est une association qui propose du soutien scolaire à distance grâce à des tuteurs bénévoles pour les élèves en difficulté scolaire. Leur objectif est de permettre à tous les élèves, peu importe où ils se trouvent, d'accéder facilement à un soutien scolaire. L'association souhaite collaborer avec Dev4U pour la conception de leur site web afin que les élèves et les bénévoles puissent communiquer facilement sur le site.
 
 ### Objectifs
 Le but de ce projet est de concevoir un site web pour Learn@Home avec les fonctionnalités suivantes :
