@@ -5,10 +5,10 @@
 Lead développeur
 
 ### Concept:
-Association qui propose du soutien scolaire à distance grâce à des tuteurs bénévoles pour les élèves en difficulté scolaire.
+Learn@Home est une association qui propose du soutien scolaire à distance grâce à des tuteurs bénévoles pour les élèves en difficulté scolaire.
 
 ### Objectif
-Concevoir un site web pour Learn@Home afin que les élèves et les bénévoles puissent communiquer facilement sur le site, peu importe où ils se trouvent.
+Concevoir un site web pour les élèves et les bénévoles afin qu'il puissent communiquer facilement sur le site, peu importe où ils se trouvent.
 
 ### Fonctionnalité
 * Connexion : permettre aux élèves et aux bénévoles de se connecter au site web.
