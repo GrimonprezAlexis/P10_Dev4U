@@ -1,0 +1,45 @@
+projet Learn@Home :
+
+propsMessage:
+title: string
+content: string
+sender: string
+receiver: string
+timestamp: Date
+isRead: boolean
+
+propsEvenement:
+title: string
+startDate: Date
+endDate: Date
+location: string
+description: string
+
+propsTache:
+title: string
+description: string
+dueDate: Date
+assignedTo: string
+isCompleted: boolean
+
+
+Page de connexion :
+username: string
+password: string
+
+Page tableau de bord :
+tasks: Array<propsTache>
+upcomingEvents: Array<propsEvenement>
+unreadMessagesCount: number
+Interface de chat :
+
+messages: Array<propsMessage>
+contacts: Array<string>
+selectedContact: string
+Page de calendrier :
+
+events: Array<propsEvenement>
+Page de gestion des tâches :
+
+tasks: Array<propsTache>
+assignedTo: string (optional, for volunteers only)
